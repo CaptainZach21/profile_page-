@@ -1,3 +1,31 @@
 body{
-	background-color: lightblue 
+	background-image: url("../assets/url.jpg");
+}
+
+#doit{
+	height: 50px
+}
+
+#ipad{
+	height: 50px
+
+}
+
+#Beats{
+	height: 50px
+}
+
+#iphone6{
+	height: 50px
+}
+#sandisk{
+	height: 50px
+}
+
+body{
+	color: blue 
+}
+
+body{
+	font-family: Arial 
 }
